@@ -13,3 +13,9 @@ Snap.py提供了SNAP的性能优势，并结合了Python的灵活性。
 具体解释看说明文档
 
 graph/ungraph分别是针对有向图和无向图的实践代码
+
+# 笔者微信公众号：
+![image](https://github.com/Mryangkaitong/Chinese_NRE/blob/master/photo/weixing.png)
+
+# 笔者csdn博客：
+https://blog.csdn.net/weixin_42001089?spm=1001.2101.3001.5343
